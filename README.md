@@ -1,3 +1,3 @@
 # Official Lesson
 
-I am ready to learn about git and github
+I am completely ready to learn about git and github
